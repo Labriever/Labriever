@@ -1,8 +1,9 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=%20Labriever's%20GitHub%20Page&desc=LeeHj's%20GitHubPage&descAlign=72&descAlignY=36&fontSize=50)
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=%20Labriever's%20GitHub%20Page&desc=LeeHj's%20GitHubPage&descAlign=72&descAlignY=36&fontSize=50)
+-->
+![Lucidus](https://criminal-vivyanne-lucidus-346ca075.koyeb.app/lucidus/card_v2?name=Lee%20HyunJu&job=Software%20Engineer&company=&address=Seocho-gu%2C%20Seoul&about=Lost%20Ark%20Never%20Die&linkedin=&github=https%3A%2F%2Fgithub.com%2FLabriever&linkedin_color=%230077B5)
 <div float="right">
 <a href="[https://tidy-harmony-366.notion.site/05825c43bfb64d01a30445074eb3b296?pvs=4](https://false-guitar-935.notion.site/158e520030518019aa92d1c876b2dc73?pvs=74)"><img src="https://img.shields.io/badge/Portfolio-735998?style=badge&logo=Notion&logoColor=white"/></a> 
  </div>
